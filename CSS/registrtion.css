@@ -25,6 +25,13 @@
   border: none;
 }
 
+.item {
+  display: none;
+  position: relative;
+  transition: 10s ease-in-out left;
+}
+
+
 /* .sedu{
     font-size: 35px;
     margin-bottom: 50px;
